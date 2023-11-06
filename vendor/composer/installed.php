@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'kamu/kamu',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '1e32d3cdd3d81dfad45163f421951f310e256f75',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -38,9 +38,9 @@
             'dev_requirement' => false,
         ),
         'kamu/kamu' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '1e32d3cdd3d81dfad45163f421951f310e256f75',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
